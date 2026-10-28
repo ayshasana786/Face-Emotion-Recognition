@@ -102,7 +102,7 @@ Press `q` to close the webcam window.
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/ayshasana786/Face-Emotion-Recognition.git
    ```
 
 2. Navigate to the project folder:
